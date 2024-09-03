@@ -1,0 +1,9 @@
+{
+    "name": "processmaker4dev/fix-host-url",
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "require": {}
+}
